@@ -147,7 +147,7 @@ Below are snapshots of the results you can expect. These are stored in the `Resu
    ![Edge Detection Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/edge%20detection%20output.png)
 
 4. **Blurred and Sharpened**  
-   ![Filtering Example](Results/filtering_exampl)
+   ![Filtering Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/blured%20image%20output.png)()
 
 *Note: Replace these placeholders with your actual screenshots to make your README visually compelling!*
 
