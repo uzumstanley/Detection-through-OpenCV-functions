@@ -138,7 +138,7 @@ process_image(image_path)
 Below are snapshots of the results you can expect. These are stored in the `Results/` directory:
 
 1. **Color Detection**  
-   ![Color Detection Example](Results/color_detection_sample.png)
+   ![Color Detection Example](Results/blured image output.png)
 
 2. **Shape Detection**  
    ![Shape Detection Example](Results/shape_detection_sample.png)
