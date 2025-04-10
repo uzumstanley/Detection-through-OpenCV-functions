@@ -141,7 +141,7 @@ Below are snapshots of the results you can expect. These are stored in the `Resu
    ![Color Detection Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/color%20detection%20output.png)
 
 2. **Shape Detection**  
-   ![Shape Detection Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/blured%20image%20output.png)
+   ![Shape Detection Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/shape%20detection%20output.png)
 
 3. **Edge Detection**  
    ![Edge Detection Example](https://github.com/uzumstanley/Detection-through-OpenCV-functions/blob/main/Results/edge%20detection%20output.png)
