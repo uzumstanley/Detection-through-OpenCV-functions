@@ -78,5 +78,5 @@ def process_image(image_path):
     show_image("Sharpened Image", sharpened)
 
 # Use any image path for testing
-image_path = 'C:\\Users\\billa\\OneDrive\\Documents\\ABC\\Computer-Vision-Projects\\Detection through OpenCV functions\\Results\\original.jpg'
+image_path = 'C:\\Users\\...path\\OneDrive\\Documents\\ABC\\Computer-Vision-Projects\\Detection through OpenCV functions\\Results\\original.jpg'
 process_image(image_path)
