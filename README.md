@@ -182,7 +182,7 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## Contact
 
-**Author**: Your Name  
+**Author**: Stanley E.U   
 - [LinkedIn](https://www.linkedin.com/in/uzum-stanley/)    
 - [Email](stanleyuzum@gmail.com)
 
