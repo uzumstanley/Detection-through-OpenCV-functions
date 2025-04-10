@@ -1,7 +1,3 @@
-Below is a sample **README.md** file that showcases your **Detection Through OpenCV Functions** project in an appealing and professional manner. You can customize the language, references, and images to suit your preferences. This structure is designed to catch the eye of technical recruiters while clearly highlighting your computer vision skills.
-
----
-
 # Detection Through OpenCV Functions
 
 **Category:** Computer Vision
